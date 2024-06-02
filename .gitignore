@@ -1,3 +1,6 @@
+# Fortram Package Manager
+build/*
+
 # Prerequisites
 *.d
 
